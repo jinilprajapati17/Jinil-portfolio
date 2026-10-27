@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jinilprajapati17.github.io/Jinil-portfolio/sitemap.xml
